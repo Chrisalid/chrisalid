@@ -23,6 +23,7 @@
   <a href = "mailto:christopherfeitosa17@hotmail.com"><img src="**https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white**" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christopher-feitosa-do-monte-bba076178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/christopher.feitosa.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.reddit.com/user/Chrisalid17" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a>
   <a href="https://br.pinterest.com/christopherfeit/" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
 </div>
   
