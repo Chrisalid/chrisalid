@@ -1,7 +1,7 @@
 ### Hi there, I'm Christopher Feitosa
 
-- 🔭 I’m currently working on backend with python
-- 🌱 I’m currently learning C#
+- 🌱 Software Architect Jr
+- 🔭 I'm working as a BackEnd Developer using C#
 - 😄 Pronouns: He/Him
 
 <div>
